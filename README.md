@@ -1,2 +1,4 @@
 # chucknorrisjokes
-Chuck Norris Joke Generator
+A Chuck Norris Joke Generator
+
+Consuming a external API
